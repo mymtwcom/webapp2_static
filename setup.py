@@ -12,7 +12,7 @@ def read(fname):
         
 setup(
     name='webapp2_static',
-    version='0.1',
+    version='0.2',
     description='Simple handler to Serve static files on non Google App Engine (GAE) webapp2 environments',
     author='Robert Spychala',
     author_email="robspychala@gmail.com",
